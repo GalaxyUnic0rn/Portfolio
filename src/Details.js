@@ -117,7 +117,7 @@ export const projectDetails = [
     image: projectImage2,
     description: `Portfolio d'une architecte d'interieur (Sophie Bluel)`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
+    previewLink: "https://www.figma.com/proto/kfKHknHySoTibZfdolGAX6/Sophie-Bluel---Desktop?node-id=2-2&t=vfeLTrNmBfuXeyER-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2",
     githubLink: "https://github.com",
   },
   {
@@ -141,7 +141,7 @@ export const projectDetails = [
     image: projectImage5,
     description: `creation d'une application web de location immobilière avec React`,
     techstack: "HTML/CSS, JavaScript, React",
-    previewLink: "https://google.com",
+    previewLink: "https://galaxyunic0rn.github.io/projet-kasa/",
     githubLink: "https://github.com/GalaxyUnic0rn/projet-kasa",
   },
   {
@@ -149,7 +149,7 @@ export const projectDetails = [
     image: projectImage6,
     description: `Developper le back-end d'un site de notation de livre`,
     techstack: "HTML/CSS, JavaScript , NodeJS",
-    previewLink: "https://google.com",
+    previewLink: "https://www.figma.com/proto/Snidyc45xi6qchoOPabMA9/Maquette-Mon-Vieux-Grimoir?node-id=3-2&t=Ynxa0n5JRaYtJhhV-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=3%3A2",
     githubLink: "https://github.com/GalaxyUnic0rn/projet-Mon-vieux-grimoire",
   },
 ];
