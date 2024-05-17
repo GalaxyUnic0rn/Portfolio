@@ -25,3 +25,15 @@ body {
 body::-webkit-scrollbar {
   display: none;
 }
+.image-fixed-size {
+  height: 19rem; 
+  width: 23rem;
+  object-fit: cover;
+}
+
+article {
+  max-height: 565px;
+}
+.fixed-height {
+  height:17.1875rem ;
+}

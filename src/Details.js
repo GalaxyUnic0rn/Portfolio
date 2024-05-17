@@ -107,8 +107,8 @@ export const projectDetails = [
   {
     title: "Booki",
     image: projectImage1,
-    description: `csite qui permet au usager de trouver des hébergements et des activités dans la ville de leur choix`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `site qui permet au usager de trouver des hébergements et des activités dans la ville de leur choix`,
+    techstack: "HTML/CSS",
     previewLink: "https://galaxyunic0rn.github.io/booki-projet/",
     githubLink: "https://github.com/GalaxyUnic0rn/booki-projet",
   },
@@ -118,7 +118,7 @@ export const projectDetails = [
     description: `Portfolio d'une architecte d'interieur (Sophie Bluel)`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://www.figma.com/proto/kfKHknHySoTibZfdolGAX6/Sophie-Bluel---Desktop?node-id=2-2&t=vfeLTrNmBfuXeyER-0&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/GalaxyUnic0rn/P3-Sophie-Bluel",
   },
   {
     title: "MenuMaker by Qwenta",
